@@ -1,0 +1,13 @@
+.images {
+  display: block;
+  height: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.results-img {
+  width: 500px;
+  height: 500px;
+}
